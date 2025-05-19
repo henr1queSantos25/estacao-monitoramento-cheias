@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include "hardware/adc.h"
 
-// Bibliotecas necessárias
+// Bibliotecas personalizadas
 #include "lib/led_5x5.h"
 #include "lib/buzzer.h"
 #include "lib/ledRGB.h"
